@@ -14,6 +14,13 @@ Overall, the YouTube clone project offers a complete video sharing platform, wit
 
 <img src = "demo/demo.png" height = 400px width = 900px>
 
+## DemoClip
+
+https://user-images.githubusercontent.com/77750467/231598181-71b8ee04-7eef-4c5f-adec-6b548b80e28a.mp4
+
+
+
+
 
 # Getting Started with Create React App
 
